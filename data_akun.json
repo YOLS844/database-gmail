@@ -26,7 +26,12 @@
   },
   "Mann": {
     "pass": "123123123",
-    "kontak": "8965047546"
+    "kontak": "8965047546",
+    "wallet": {
+      "name": "Dana",
+      "number": "082164500992",
+      "holder": "Fakhri"
+    }
   },
   "Lang": {
     "pass": "la",
