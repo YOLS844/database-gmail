@@ -12,5 +12,12 @@
     "amount": 2000,
     "desc": "ACC Gmail",
     "waktu": "10/6/2026, 16.04.33"
+  },
+  {
+    "user": "Babii",
+    "type": "kredit",
+    "amount": 2000,
+    "desc": "ACC Gmail",
+    "waktu": "10/6/2026, 16.04.42"
   }
 ]
