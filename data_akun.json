@@ -2,14 +2,5 @@
   "Babi": {
     "pass": "pong",
     "kontak": "Babi"
-  },
-  "Babii": {
-    "pass": "pong1",
-    "kontak": "Babi",
-    "wallet": {
-      "name": "DANA",
-      "number": "086277732627277",
-      "holder": "MEMEK"
-    }
   }
 }
