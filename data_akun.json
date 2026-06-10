@@ -17,6 +17,11 @@
   },
   "abeng": {
     "pass": "1234567",
-    "kontak": "0895325486876"
+    "kontak": "0895325486876",
+    "wallet": {
+      "name": "DANA",
+      "number": "089504795729",
+      "holder": "dzaktzy"
+    }
   }
 }
