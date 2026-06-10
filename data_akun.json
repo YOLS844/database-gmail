@@ -1,1 +1,10 @@
-[]
+{
+  "Babi": {
+    "pass": "pong",
+    "kontak": "Babi"
+  },
+  "Babii": {
+    "pass": "pong1",
+    "kontak": "Babi"
+  }
+}
