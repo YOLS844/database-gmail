@@ -1,13 +1,5 @@
 [
   {
-    "nama": "Nanda",
-    "gmail": "nanda924@gmail.com",
-    "password": "nanda924#A1",
-    "user": "zer",
-    "status": "pending",
-    "waktu": "10/6/2026, 20.17.45"
-  },
-  {
     "nama": "Lutfi",
     "gmail": "lutfi395@gmail.com",
     "password": "lutfi395#A1",
@@ -22,37 +14,5 @@
     "user": "abeng",
     "status": "pending",
     "waktu": "10/6/2026, 19.27.31"
-  },
-  {
-    "nama": "Karin",
-    "gmail": "karin754@gmail.com",
-    "password": "karin754#A1",
-    "user": "Lang",
-    "status": "pending",
-    "waktu": "10/6/2026, 20.26.22"
-  },
-  {
-    "nama": "Lutfi",
-    "gmail": "lutfi227@gmail.com",
-    "password": "lutfi227#A1",
-    "user": "Lang",
-    "status": "pending",
-    "waktu": "10/6/2026, 20.26.42"
-  },
-  {
-    "nama": "Fajar",
-    "gmail": "fajar950@gmail.com",
-    "password": "fajar950#A1",
-    "user": "Lang",
-    "status": "pending",
-    "waktu": "10/6/2026, 20.27.00"
-  },
-  {
-    "nama": "Karin",
-    "gmail": "karin638@gmail.com",
-    "password": "karin638#A1",
-    "user": "Lang",
-    "status": "pending",
-    "waktu": "10/6/2026, 20.27.11"
   }
 ]
