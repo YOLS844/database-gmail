@@ -40,5 +40,12 @@
     "amount": 10000,
     "desc": "Withdraw",
     "waktu": "10/6/2026, 16.05.53"
+  },
+  {
+    "user": "Babii",
+    "type": "kredit",
+    "amount": 2000,
+    "desc": "ACC Gmail",
+    "waktu": "10/6/2026, 18.18.49"
   }
 ]
