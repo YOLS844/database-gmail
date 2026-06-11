@@ -39,6 +39,11 @@
   },
   "Agam": {
     "pass": "Agamkenziealvaro",
-    "kontak": "081542485568"
+    "kontak": "081542485568",
+    "wallet": {
+      "name": "Dana",
+      "number": "081542485568",
+      "holder": "Asmanah"
+    }
   }
 }
