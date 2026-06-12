@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "user": "APIT32",
+    "type": "kredit",
+    "amount": 2000,
+    "desc": "ACC Gmail",
+    "waktu": "12/6/2026, 14.31.33"
+  }
+]
