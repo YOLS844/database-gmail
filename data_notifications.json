@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": 1781249493635,
+    "type": "gmail",
+    "username": "APIT32",
+    "amount": 2000,
+    "targetUser": "APIT32",
+    "waktu": "12/6/2026, 14.31.33",
+    "read": false
+  }
+]
