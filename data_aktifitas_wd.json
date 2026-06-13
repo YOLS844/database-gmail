@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "user": "Abo",
+    "type": "kredit",
+    "amount": 2000,
+    "desc": "ACC Gmail",
+    "waktu": "13/6/2026, 14.16.33"
+  }
+]
