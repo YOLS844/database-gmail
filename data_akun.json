@@ -57,5 +57,10 @@
   "Meg": {
     "pass": "meg123",
     "kontak": "@Ryuumd"
+  },
+  "Abo": {
+    "pass": "rijam",
+    "kontak": "088218171155",
+    "defaultPassword": "QCqS84owY"
   }
 }
