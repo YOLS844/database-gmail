@@ -61,6 +61,11 @@
   "Abo": {
     "pass": "rijam",
     "kontak": "088218171155",
-    "defaultPassword": "QCqS84owY"
+    "defaultPassword": "QCqS84owY",
+    "wallet": {
+      "name": "Dana",
+      "number": "088218171155",
+      "holder": "Muhamad rijam altamis"
+    }
   }
 }
