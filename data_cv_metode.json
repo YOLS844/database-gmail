@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "namaMetode": "USDT TRC20",
+    "token": "USDT",
+    "network": "TRC20",
+    "fee": "1 USDT",
+    "rate": "1 USDT = Rp15.000",
+    "minKonversi": "0.5 USDT",
+    "address": "",
+    "hargaUsdt": 15000,
+    "adminFee": 1000
+  }
+]
