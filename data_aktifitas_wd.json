@@ -5,5 +5,12 @@
     "amount": 2000,
     "desc": "ACC Gmail",
     "waktu": "13/6/2026, 14.16.33"
+  },
+  {
+    "user": "Pong",
+    "type": "kredit",
+    "amount": 14000,
+    "desc": "ACC CvSaldo",
+    "waktu": "14/6/2026, 11.16.34"
   }
 ]
