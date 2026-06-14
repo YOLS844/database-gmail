@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "token": "USDT",
+    "network": "TRC20",
+    "nominal": 1,
+    "estimasiRupiah": 14000,
+    "address": "",
+    "hargaUsdt": 15000,
+    "adminFee": 1000,
+    "user": "Pong",
+    "status": "pending",
+    "waktu": "14/6/2026, 11.15.28",
+    "buktiUrl": ""
+  }
+]
