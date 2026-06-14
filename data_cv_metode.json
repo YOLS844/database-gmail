@@ -10,5 +10,17 @@
     "address": "",
     "hargaUsdt": 15000,
     "adminFee": 1000
+  },
+  {
+    "id": 2,
+    "namaMetode": "USDT",
+    "token": "USDT",
+    "network": "BEP-20",
+    "fee": "1.0",
+    "rate": "1 USDT = Rp14.000",
+    "minKonversi": "1.0 USDT",
+    "address": "0x12790d8d151e5730e73126c0adc54fc31e540b6c",
+    "hargaUsdt": 14000,
+    "adminFee": 500
   }
 ]
