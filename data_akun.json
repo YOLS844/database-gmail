@@ -101,6 +101,11 @@
   },
   "Rzyzz": {
     "pass": "kyzo12345",
-    "kontak": "088994028418"
+    "kontak": "088994028418",
+    "wallet": {
+      "name": "Dana",
+      "number": "088994028418",
+      "holder": "T.KAMARIAH"
+    }
   }
 }
