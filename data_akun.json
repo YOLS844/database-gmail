@@ -114,6 +114,11 @@
   },
   "Ucup": {
     "pass": "ucupganteng156",
-    "kontak": "Yanzdev_1"
+    "kontak": "Yanzdev_1",
+    "wallet": {
+      "name": "Dana",
+      "number": "+62 838-7350-5999",
+      "holder": "Ucup"
+    }
   }
 }
